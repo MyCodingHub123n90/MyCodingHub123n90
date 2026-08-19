@@ -1,6 +1,6 @@
 # Hi there i am Victor 👋
--A Code Developer From Earth🌏
-
+A Code Developer From Earth🌏
+Go Manchester City!⚽
 - 🔭 I’m currently working on My VictorNewb Company
 - 🌱 I’m currently learning Python Programming
 - 🤔 I’m looking for help with Python
